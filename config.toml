@@ -9,6 +9,7 @@ theme = "hugo-book"
 
 # hugo discuss 
 
+
 [params]
 BookComments = true
 BookDateFormat = '2006/01/02'
