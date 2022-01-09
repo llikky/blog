@@ -8,7 +8,7 @@ draft: false
 
 ```go
 t := fmt.Println("this is a good idea ")
-println("hello")
+println("hello 1")
 ```
 
 
