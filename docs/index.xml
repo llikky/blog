@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Hugo Bootstrap v4 Blog</title>
-    <link>https://example.org/docs/</link>
-    <description>Recent content in Docs on Hugo Bootstrap v4 Blog</description>
+    <title>Docs on think deep</title>
+    <link>https://llikky.github.io/blog/docs/</link>
+    <description>Recent content in Docs on think deep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jan 2022 20:12:47 +0800</lastBuildDate><atom:link href="https://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jan 2022 20:12:47 +0800</lastBuildDate><atom:link href="https://llikky.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>理财</title>
-      <link>https://example.org/docs/%E7%90%86%E8%B4%A2/</link>
+      <link>https://llikky.github.io/blog/docs/%E7%90%86%E8%B4%A2/</link>
       <pubDate>Sun, 09 Jan 2022 20:12:47 +0800</pubDate>
       
-      <guid>https://example.org/docs/%E7%90%86%E8%B4%A2/</guid>
+      <guid>https://llikky.github.io/blog/docs/%E7%90%86%E8%B4%A2/</guid>
       <description>Page One</description>
     </item>
     

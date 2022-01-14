@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/docs/</loc>
+    <loc>https://llikky.github.io/blog/docs/</loc>
     <lastmod>2022-01-09T20:12:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://llikky.github.io/blog/2022/01/my-first-post/</loc>
     <lastmod>2022-01-09T20:12:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2022/01/my-first-post/</loc>
+    <loc>https://llikky.github.io/blog/2022/01/my-first-post/</loc>
     <lastmod>2022-01-09T20:12:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2022/01/my-first-post/</loc>
+    <loc>https://llikky.github.io/blog/posts/</loc>
     <lastmod>2022-01-09T20:12:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://llikky.github.io/blog/</loc>
     <lastmod>2022-01-09T20:12:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/docs/%E7%90%86%E8%B4%A2/</loc>
+    <loc>https://llikky.github.io/blog/docs/%E7%90%86%E8%B4%A2/</loc>
     <lastmod>2022-01-09T20:12:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://llikky.github.io/blog/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://llikky.github.io/blog/tags/</loc>
   </url>
   
 </urlset>
